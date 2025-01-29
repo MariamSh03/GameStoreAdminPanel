@@ -1,0 +1,28 @@
+# Ignore Visual Studio temporary files
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.log
+
+# Ignore macOS system files
+.DS_Store
+# Ignore Visual Studio temporary files
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.log
+
+# Ignore macOS system files
+.DS_Store
